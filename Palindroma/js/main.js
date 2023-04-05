@@ -37,3 +37,5 @@ function palindromoCheck(parola){
     else{return "La parola data non è palindroma";}
 
 }
+
+//------------------------------------------------------------------
